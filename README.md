@@ -1,4 +1,4 @@
-### <div align="center">I’m Peng Yuan, a Computer Science student from Malaysia majoring in Artificial Intelligence 🤖</div>  
+## <div align="center">I’m Peng Yuan, a Computer Science student from Malaysia majoring in Artificial Intelligence 🤖</div>  
   
 
 -  🎓 I am currently studying at Multimedia University Malacca  
