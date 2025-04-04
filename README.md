@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I’m Peng Yuan, a Computer Science student from Malaysia majoring in Artificial Intelligence 🤖</div>  
   
 
@@ -81,22 +76,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=Pyuan57&&style=flat-square)  
   
 
-<br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
